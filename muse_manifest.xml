@@ -1,0 +1,1412 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ajportfolio.com" resolutions="1x" timestamp="1635522522136">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="3897006492" ref="index:pós-produção-de-video:edição-de-som:about-me:animação-2d:téc.-animação-interativa:1ºano:edição-web:2ºano:edição-vídeo:3ºano:tratamento-de-imagens:edição-bitmaps:animação-3d:edição-vetorial"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3990067303" ref="index:pós-produção-de-video:edição-de-som:about-me:animação-2d:téc.-animação-interativa:1ºano:edição-web:2ºano:edição-vídeo:3ºano:tratamento-de-imagens:edição-bitmaps:animação-3d:edição-vetorial"/>
+    <file name="index.css" crc="3871564095" ref="index"/>
+    <file name="nomq_index.css" crc="391927792" ref="index"/>
+    <file name="p_s-produ__o-de-video.css" crc="4148616720" ref="pós-produção-de-video"/>
+    <file name="nomq_p_s-produ__o-de-video.css" crc="3842526738" ref="pós-produção-de-video"/>
+    <file name="edi__o-de-som.css" crc="321045591" ref="edição-de-som"/>
+    <file name="nomq_edi__o-de-som.css" crc="4097270932" ref="edição-de-som"/>
+    <file name="about-me.css" crc="276976877" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="475819623" ref="about-me"/>
+    <file name="anima__o-2d.css" crc="4148616720" ref="animação-2d"/>
+    <file name="nomq_anima__o-2d.css" crc="3842526738" ref="animação-2d"/>
+    <file name="t_c_-anima__o-interativa.css" crc="3843522619" ref="téc.-animação-interativa"/>
+    <file name="nomq_t_c_-anima__o-interativa.css" crc="4063523605" ref="téc.-animação-interativa"/>
+    <file name="1_ano.css" crc="4288637269" ref="1ºano"/>
+    <file name="nomq_1_ano.css" crc="3869164921" ref="1ºano"/>
+    <file name="edi__o-web.css" crc="4148616720" ref="edição-web"/>
+    <file name="nomq_edi__o-web.css" crc="3842526738" ref="edição-web"/>
+    <file name="2_ano.css" crc="43710112" ref="2ºano"/>
+    <file name="nomq_2_ano.css" crc="3789222931" ref="2ºano"/>
+    <file name="edi__o-v_deo.css" crc="4148616720" ref="edição-vídeo"/>
+    <file name="nomq_edi__o-v_deo.css" crc="3842526738" ref="edição-vídeo"/>
+    <file name="3_ano.css" crc="3945162946" ref="3ºano"/>
+    <file name="nomq_3_ano.css" crc="4021299813" ref="3ºano"/>
+    <file name="tratamento-de-imagens.css" crc="4148616720" ref="tratamento-de-imagens"/>
+    <file name="nomq_tratamento-de-imagens.css" crc="3842526738" ref="tratamento-de-imagens"/>
+    <file name="edi__o-bitmaps.css" crc="365136237" ref="edição-bitmaps"/>
+    <file name="nomq_edi__o-bitmaps.css" crc="304228760" ref="edição-bitmaps"/>
+    <file name="anima__o-3d.css" crc="4148616720" ref="animação-3d"/>
+    <file name="nomq_anima__o-3d.css" crc="3842526738" ref="animação-3d"/>
+    <file name="edi__o-vetorial.css" crc="4050015306" ref="edição-vetorial"/>
+    <file name="nomq_edi__o-vetorial.css" crc="4172576560" ref="edição-vetorial"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="webpro.js" crc="3770351119" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u26608.php" crc="3855430632" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="require.js" crc="4234670167" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+  </folder>
+  <folder name="images">
+    <file name="ajlogo.png" crc="4057022209" seo="true" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d">
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="2048px-instagram_icon.png" crc="4267036969" seo="true" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d">
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="twitter-logo-4.png" crc="3881096403" seo="true" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d">
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="tratamento-de-imagens" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="edição-de-som" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="pós-produção-de-video" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="edição-web" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="animação-2d" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="animação-3d" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="edição-vídeo" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41004.png" crc="140022879" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41004-r.png" crc="306358796" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41012.png" crc="69313250" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41012-r.png" crc="202458702" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u40991.png" crc="237073192" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u40991-r.png" crc="3814045764" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41640-4.png" crc="4257442226" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41693-4.png" crc="489278521" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41792-4.png" crc="4250753307" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41882-4.png" crc="3994782428" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41019.png" crc="3837407226" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41019-r.png" crc="345495098" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u41989-4.png" crc="4279247151" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u42063-4.png" crc="250050894" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u42152-4.png" crc="165236878" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u42245-4.png" crc="3965610398" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u40998.png" crc="249095866" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u40998-r.png" crc="344596028" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u42353-4.png" crc="8820380" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u42427-4.png" crc="206440652" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="png-clipart-hamburger-button-computer-icons-menu-menu-black-bar.png" crc="408145134" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u44057.png" crc="4011486490" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44057-r.png" crc="346094534" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44048.png" crc="430801403" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44048-r.png" crc="4263892335" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44090.png" crc="118739076" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44090-r.png" crc="3764039078" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44085-4.png" crc="4123882031" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44066-4.png" crc="120946178" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44071-4.png" crc="4019214278" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44081-4.png" crc="4183457222" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44095.png" crc="4118309064" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44095-r.png" crc="314863032" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44102-4.png" crc="527019872" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44116-4.png" crc="278225459" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44110-4.png" crc="42492640" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44124-4.png" crc="412729988" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44131.png" crc="11508650" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44131-r.png" crc="3873122549" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44140-4.png" crc="8820380" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u44146-4.png" crc="206440652" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45600.png" crc="4011486490" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45600-r.png" crc="346094534" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45595.png" crc="430801403" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45595-r.png" crc="4263892335" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45605.png" crc="118739076" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45605-r.png" crc="3764039078" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45627-4.png" crc="4032165337" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45634-4.png" crc="3863731545" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45613-4.png" crc="4024667958" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45620-4.png" crc="13344906" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45670.png" crc="4118309064" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45670-r.png" crc="314863032" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45647-4.png" crc="263571824" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45652-4.png" crc="238753094" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45668-4.png" crc="221743976" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45659-4.png" crc="23596703" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45572.png" crc="11508650" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45572-r.png" crc="3873122549" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45580-4.png" crc="8820380" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="u45587-4.png" crc="206440652" ref="index:about-me:1ºano:2ºano:3ºano:edição-bitmaps:edição-vetorial:edição-de-som:téc.-animação-interativa:edição-web:edição-vídeo:tratamento-de-imagens:animação-3d:pós-produção-de-video:animação-2d"/>
+    <file name="46df9913-349e-49d8-856f-199d7834b47d.jpg" crc="3929125433" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u24555-6.png" crc="462703651" ref="about-me"/>
+    <file name="u24555-62.png" crc="4057700367" ref="about-me"/>
+    <file name="46df9913-349e-49d8-856f-199d7834b47d302x378.jpg" crc="3857358083" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u24555-63.png" crc="512295471" ref="about-me"/>
+    <file name="46df9913-349e-49d8-856f-199d7834b47d232x290.jpg" crc="98768574" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u24555-64.png" crc="490538948" ref="about-me"/>
+    <file name="46df9913-349e-49d8-856f-199d7834b47d145x182.jpg" crc="266290652" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u24555-65.png" crc="1792422" ref="about-me"/>
+    <file name="46df9913-349e-49d8-856f-199d7834b47d132x164.jpg" crc="464149763" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u24555-66.png" crc="271856096" ref="about-me"/>
+    <file name="imagem colada 583x256.jpg" crc="108976558" seo="true" ref="1ºano">
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+      <caption webpage="1ºano" alt=""/>
+    </file>
+    <file name="imagem colada 642x266.jpg" crc="353467584" seo="true" ref="2ºano">
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+      <caption webpage="2ºano" alt=""/>
+    </file>
+    <file name="imagem colada 642x266325x135.jpg" crc="4126351332" seo="true" ref="2ºano">
+      <caption webpage="2ºano" alt=""/>
+    </file>
+    <file name="imagem colada 642x266209x87.jpg" crc="69228794" seo="true" ref="2ºano">
+      <caption webpage="2ºano" alt=""/>
+    </file>
+    <file name="imagem colada 633x270.jpg" crc="3859091776" seo="true" ref="3ºano">
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+      <caption webpage="3ºano" alt=""/>
+    </file>
+    <file name="imagem colada 633x270337x144.jpg" crc="4101081650" seo="true" ref="3ºano">
+      <caption webpage="3ºano" alt=""/>
+    </file>
+    <file name="imagem colada 633x270239x102.jpg" crc="524430782" seo="true" ref="3ºano">
+      <caption webpage="3ºano" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww169x112.jpg" crc="3871698929" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso162x112.png" crc="185972197" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso-crop-u54997.png" crc="3859407096" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso137x137.png" crc="404867775" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u55147.jpg" crc="517139280" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso157x112.jpg" crc="3993484597" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso-crop-u55297.png" crc="4140419407" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso-crop-u55372.png" crc="42223190" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem-crop-u55447.jpg" crc="3998533083" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-1137x117.jpg" crc="99453103" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso143x112.png" crc="3873281745" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso149x112.png" crc="4110367603" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso137x137.jpg" crc="3980653615" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u55822.jpg" crc="3838812016" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher137x137.jpg" crc="261066023" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso150x112.jpg" crc="334593517" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro-crop-u56047.jpg" crc="3777838577" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u56122.jpg" crc="522131435" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso-crop-u56197.jpg" crc="3775362451" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso155x112.jpg" crc="337958955" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste1149x113.jpg" crc="3924435748" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso-crop-u56422.jpg" crc="4019605440" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso150x112.png" crc="91515430" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso150x112.png" crc="3836496527" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso-crop-u56647.png" crc="257845517" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso150x112.jpg" crc="3997620859" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1168x113.jpg" crc="105247894" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww.jpg" crc="510500906" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso.png" crc="403243702" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso.png" crc="3883150520" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso.png" crc="3928509439" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso.jpg" crc="455808291" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso.jpg" crc="3887270281" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso.png" crc="223096249" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso.png" crc="4068183324" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem.jpg" crc="3803183052" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-1.jpg" crc="3924454049" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso.png" crc="400530234" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso.png" crc="412879251" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso.jpg" crc="4271382683" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara.jpg" crc="189484122" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher.jpg" crc="451584684" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso.jpg" crc="343054517" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro.jpg" crc="4209688974" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha.jpg" crc="393400838" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso.jpg" crc="467292188" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso.jpg" crc="224737989" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste1.jpg" crc="4211601778" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso.jpg" crc="4207856081" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso.png" crc="196475292" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso.png" crc="36867295" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso.png" crc="192724139" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso.jpg" crc="4013316009" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="248655511" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="edição-bitmaps:edição-vetorial"/>
+    <file name="1_an7x6yxd1yrmqvtaig3uww-crop-u51945.jpg" crc="38693548" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso-crop-u54922.png" crc="142334963" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso-crop-u549972.png" crc="4019574579" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso108x108.png" crc="234734887" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u551472.jpg" crc="4127334228" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso-crop-u55222.jpg" crc="4086234654" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso-crop-u552972.png" crc="378988724" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso-crop-u553722.png" crc="3978636199" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem98x131.jpg" crc="111667964" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-1-crop-u55522.jpg" crc="3853740704" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso-crop-u55597.png" crc="57429504" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso-crop-u55672.png" crc="3760024622" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso108x108.jpg" crc="4126902399" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u558222.jpg" crc="3940629560" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher108x108.jpg" crc="4008675724" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso-crop-u55972.jpg" crc="350002958" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro-crop-u560472.jpg" crc="288329875" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u561222.jpg" crc="106177444" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso98x114.jpg" crc="482311345" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso-crop-u56272.jpg" crc="146666225" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste1-crop-u56347.jpg" crc="443631321" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso-crop-u564222.jpg" crc="4258734980" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso-crop-u56497.png" crc="329704580" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso-crop-u56572.png" crc="30290358" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso-crop-u56722.jpg" crc="99866217" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u56797.jpg" crc="4200573423" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww109x72.jpg" crc="440341869" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso104x72.png" crc="484171096" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso-crop-u549973.png" crc="95769347" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso-crop-u55072.png" crc="4198840238" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u551473.jpg" crc="4168177741" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso101x72.jpg" crc="3780282172" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso112x72.png" crc="4034880783" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso-crop-u553723.png" crc="3868709236" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem-crop-u554472.jpg" crc="4276317562" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-199x85.jpg" crc="411087943" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso99x78.png" crc="3991009386" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso99x75.png" crc="442338528" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso-crop-u55747.jpg" crc="3919394605" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u558223.jpg" crc="3797922095" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher-crop-u55897.jpg" crc="4248720761" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso99x75.jpg" crc="4160430925" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro117x72.jpg" crc="4150719374" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u561223.jpg" crc="92535578" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso-crop-u561972.jpg" crc="211411198" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso100x72.jpg" crc="3983858955" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste199x75.jpg" crc="418206107" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso-crop-u564223.jpg" crc="3851859584" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso99x75.png" crc="3931452959" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso99x75.png" crc="229578076" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso-crop-u566472.png" crc="17779441" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso99x75.jpg" crc="320049612" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1108x72.jpg" crc="4174065014" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww-crop-u519452.jpg" crc="39162887" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso-crop-u549222.png" crc="190505075" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso-crop-u549974.png" crc="333827934" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso61x61.png" crc="400688915" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u551474.jpg" crc="110847908" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso-crop-u552222.jpg" crc="72263977" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso-crop-u552973.png" crc="290351286" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso-crop-u553724.png" crc="4120681114" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem-crop-u554473.jpg" crc="402231423" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-166x56.jpg" crc="4161242796" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso72x56.png" crc="278123102" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso75x56.png" crc="239397624" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso60x60.jpg" crc="17168128" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u558224.jpg" crc="328221505" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher60x60.jpg" crc="28457492" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso75x56.jpg" crc="42324219" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro-crop-u560473.jpg" crc="4173237694" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u561224.jpg" crc="283479686" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso60x70.jpg" crc="4136160396" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso-crop-u562722.jpg" crc="4201596884" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste175x57.jpg" crc="41302120" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso-crop-u564224.jpg" crc="308242905" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso75x56.png" crc="133789507" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso75x56.png" crc="321658487" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso-crop-u566473.png" crc="349069827" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso75x56.jpg" crc="404663636" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u567972.jpg" crc="3989398219" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww49x32.jpg" crc="4263502466" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso48x34.png" crc="3833200235" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso57x32.png" crc="3836774684" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso-crop-u550722.png" crc="4039951753" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u551475.jpg" crc="3761444827" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso48x35.jpg" crc="493802287" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso50x32.png" crc="4234997997" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso59x32.png" crc="3880361485" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem-crop-u554474.jpg" crc="3858825331" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-1-crop-u555222.jpg" crc="344597228" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso48x38.png" crc="4002721502" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso48x37.png" crc="3894442449" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso-crop-u557472.jpg" crc="3870010036" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u558225.jpg" crc="4255768214" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher-crop-u558972.jpg" crc="4178681442" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso48x36.jpg" crc="4261303124" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro52x32.jpg" crc="4248593178" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u561225.jpg" crc="4128625673" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso-crop-u561973.jpg" crc="151032859" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso48x35.jpg" crc="3892051489" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste148x37.jpg" crc="3987562319" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso57x32.jpg" crc="4226279180" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso48x36.png" crc="405731351" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso48x37.png" crc="3865828559" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso-crop-u566474.png" crc="4217400378" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso48x36.jpg" crc="266789789" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-148x32.jpg" crc="4032599670" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="1_an7x6yxd1yrmqvtaig3uww-crop-u519453.jpg" crc="3821153707" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bandeira afonso-crop-u549223.png" crc="431509201" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="black america afonso-crop-u549975.png" crc="4017788241" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="bola afonso38x38.png" crc="359132235" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="campo afonso-crop-u551476.jpg" crc="25200629" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro afonso-crop-u552223.jpg" crc="373523438" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro1 afonso-crop-u552974.png" crc="132566830" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="carro2 afonso-crop-u553725.png" crc="3822954961" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="fotomontagem-crop-u554475.jpg" crc="225762679" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="frutas-142x35.jpg" crc="256707256" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="homem afonso45x35.png" crc="3829267590" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="janelas afonso47x35.png" crc="71361608" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="katy afonso38x38.jpg" crc="3803508695" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="montagem de cara-crop-u558226.jpg" crc="3809701198" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="mulher38x38.jpg" crc="504961122" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="muro afonso47x35.jpg" crc="319011789" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="olhos de vampiro-crop-u560474.jpg" crc="4233337868" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="panorama montanha-crop-u561226.jpg" crc="536394073" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="papagaio afonso-crop-u561974.jpg" crc="4029831192" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="pele afonso-crop-u562723.jpg" crc="3974206099" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste147x35.jpg" crc="3938175946" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="poste2 afonso-crop-u564225.jpg" crc="222875803" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="salsicha afonso47x35.png" crc="4226761146" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo afonso47x35.png" crc="4211367657" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="sapo ingles afonso-crop-u566475.png" crc="177932148" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="simpsons afonso47x35.jpg" crc="4110300197" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u567973.jpg" crc="519834725" seo="true" ref="edição-bitmaps">
+      <caption webpage="edição-bitmaps" alt=""/>
+    </file>
+    <file name="apple logos.jpg" crc="389673754" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-100.jpg" crc="46208694" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado.jpg" crc="3892665721" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso.jpg" crc="130780212" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha.jpg" crc="119149432" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados.jpg" crc="367984544" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="animação-the-hangover.gif" crc="115968478" seo="true" ref="edição-vetorial:téc.-animação-interativa">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+    </file>
+    <file name="todo junto de noite.jpg" crc="3872847582" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto.jpg" crc="3917553208" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u54108.jpg" crc="80261549" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-100159x112.jpg" crc="4080914391" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u57821.jpg" crc="468062174" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u57896.jpg" crc="488817212" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u57971.jpg" crc="190372900" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados-crop-u58046.jpg" crc="530074960" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto de noite156x112.jpg" crc="4189422506" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto162x112.jpg" crc="4160093872" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u541082.jpg" crc="160466782" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-100108x76.jpg" crc="3867969640" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u578212.jpg" crc="3842914905" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u578962.jpg" crc="4110586868" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u579712.jpg" crc="4040146369" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados-crop-u580462.jpg" crc="63300527" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto de noite106x76.jpg" crc="3938851069" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto110x76.jpg" crc="3993989683" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u541083.jpg" crc="3978828222" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-100102x72.jpg" crc="6399391" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u578213.jpg" crc="3925468222" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u578963.jpg" crc="3949211230" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u579713.jpg" crc="4197417419" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados123x72.jpg" crc="443524343" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto de noite101x72.jpg" crc="3991005328" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto104x72.jpg" crc="4056622139" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u541084.jpg" crc="4199901898" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-100116x82.jpg" crc="377014939" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u578214.jpg" crc="4285803619" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u578964.jpg" crc="3954951169" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u579714.jpg" crc="4060770186" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados-crop-u580463.jpg" crc="57817913" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto de noite115x82.jpg" crc="32623754" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto118x82.jpg" crc="259955339" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u541085.jpg" crc="3972297614" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="artboard 1-10064x45.jpg" crc="3893512860" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u578215.jpg" crc="293768242" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u578965.jpg" crc="194747049" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u579715.jpg" crc="4126115750" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados-crop-u580464.jpg" crc="532465025" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto de noite63x45.jpg" crc="3854142027" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="todo junto65x45.jpg" crc="4162322868" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="apple logos-crop-u541086.jpg" crc="3972297614" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso pintado-crop-u578216.jpg" crc="293768242" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="brasao loures afonso-crop-u578966.jpg" crc="194747049" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos linha-crop-u579716.jpg" crc="4126115750" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="logos pintados-crop-u580465.jpg" crc="532465025" seo="true" ref="edição-vetorial">
+      <caption webpage="edição-vetorial" alt=""/>
+    </file>
+    <file name="animação.gif" crc="4181386066" seo="true" ref="téc.-animação-interativa">
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+    </file>
+    <file name="animação-via-lactea.gif" crc="3771443206" seo="true" ref="téc.-animação-interativa">
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+      <caption webpage="téc.-animação-interativa" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3915229276" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="about-me.html" crc="114856537" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="1ºano.html" crc="340795570" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="2ºano.html" crc="4088123819" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="3ºano.html" crc="87949994" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="edição-bitmaps.html" crc="180055284" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="edição-vetorial.html" crc="4058560205" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="edição-de-som.html" crc="20372590" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="téc.-animação-interativa.html" crc="406052156" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="edição-web.html" crc="60786275" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="edição-vídeo.html" crc="4607631" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="tratamento-de-imagens.html" crc="263591384" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="animação-3d.html" crc="3856195749" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="pós-produção-de-video.html" crc="500138819" seo="true" mt="1635522457053" redirect="true"/>
+  <file name="animação-2d.html" crc="156434769" seo="true" mt="1635522457053" redirect="true"/>
+</manifest>
